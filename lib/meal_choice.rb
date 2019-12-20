@@ -5,4 +5,3 @@ end
 
 meal_choice("carrot", "peas", "steak")
 meal_choice("broccoli", "macaroni")
-meal_choice("broccoli", "macaroni", "tofu")
